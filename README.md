@@ -6,15 +6,15 @@ The purpose of this application is to create a webapp that handles booking denti
 ## The relevant resources are as follows:
 ## Repositories:
 ### Clinic Registry
-   * https://git.chalmers.se/courses/dit355/test-teams-formation/team-13/clinic-registry
+   * https://github.com/denesakin/DR-clinic-registry
 ### Booking
-   * ttps://git.chalmers.se/courses/dit355/test-teams-formation/team-13/booking
+   * https://github.com/denesakin/DR-booking
 ### RESTful API
-   * https://git.chalmers.se/courses/dit355/test-teams-formation/team-13/rest-api
+   * https://github.com/denesakin/DR-rest-api
 ### Client:
-   * https://git.chalmers.se/courses/dit355/test-teams-formation/team-13/frontend
+   * https://github.com/denesakin/DR-frontend
 ### Local-Infrastructure(Docker container containing local MQTT Broker & MongoDB for development purposes):
-   * https://git.chalmers.se/courses/dit355/test-teams-formation/team-13/local-infrastructure
+   * https://github.com/denesakin/DR-local-infrastructure
 
 ## Getting Started
 ### Step 1
