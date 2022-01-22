@@ -1,4 +1,4 @@
-# Team-13 Project
+# Team-13 School Project
 
 ## Purpose
 The purpose of this application is to create a webapp that handles booking dentist appointments and searching for clinics. These clinics will be visualized through an interactive map. The team working on this project are as follows:
