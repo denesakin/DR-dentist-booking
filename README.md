@@ -3,6 +3,8 @@
 ## Purpose
 The purpose of this application is to create a webapp that handles booking dentist appointments and searching for clinics. These clinics will be visualized through an interactive map. Team of 6 members worked on this project, which was a part of DIT355 Mini Project: Distributed Systems Development in University of Gothenburg & Chalmers.
 
+(Please note that this and other repos below are reuploads from my GitLab school account, for the sake of showing the source code. Potential problems may occur when trying to build and run the project)
+
 ## The relevant resources are as follows:
 ## Repositories:
 ### Clinic Registry
@@ -19,15 +21,15 @@ The purpose of this application is to create a webapp that handles booking denti
 ## Getting Started
 ### Step 1
 First of all clone all the gitlab repositories.
-- [Frontend](https://git.chalmers.se/courses/dit355/test-teams-formation/team-13/frontend )
-- [Booking](https://git.chalmers.se/courses/dit355/test-teams-formation/team-13/booking.git)
-- [Clinic Registry](https://git.chalmers.se/courses/dit355/test-teams-formation/team-13/clinic-registry)
-- [Rest Api](https://git.chalmers.se/courses/dit355/test-teams-formation/team-13/rest-api.git)
-- [Local Infrastructure](https://git.chalmers.se/courses/dit355/test-teams-formation/team-13/local-infrastructure.git)
+- [Frontend](https://github.com/denesakin/DR-frontend)
+- [Booking](https://github.com/denesakin/DR-booking)
+- [Clinic Registry](https://github.com/denesakin/DR-clinic-registry)
+- [Rest Api](https://github.com/denesakin/DR-rest-api)
+- [Local Infrastructure](https://github.com/denesakin/DR-local-infrastructure)
 
 ### Step 2
-Follow instructions to set up mqtt broker and mongoDB database via a docker component from the link below
-https://git.chalmers.se/courses/dit355/test-teams-formation/team-13/local-infrastructure/-/blob/master/README.md
+Follow instructions to set up mqtt broker and mongoDB database via a docker component from the README.md file available in link below 
+https://github.com/denesakin/DR-local-infrastructure
 
 ### Step 3
 Open the local infrastructure repository in a terminal and run the below commands to set up the Mongo database and MQTT broker.
