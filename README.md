@@ -30,7 +30,7 @@ First of all clone all the gitlab repositories.
 
 ### Step 2
 Follow instructions to set up mqtt broker and mongoDB database via a docker component from the README.md file available in link below 
-https://github.com/denesakin/DR-local-infrastructure
+https://github.com/han-lue/DR-local-infrastructure
 
 ### Step 3
 Open the local infrastructure repository in a terminal and run the below commands to set up the Mongo database and MQTT broker.
