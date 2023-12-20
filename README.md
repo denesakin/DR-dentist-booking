@@ -7,25 +7,26 @@ The purpose of this application is to create a webapp that handles booking denti
 
 ## The relevant resources are as follows:
 ## Repositories:
-### Clinic Registry
-   * https://github.com/denesakin/DR-clinic-registry
-### Booking
-   * https://github.com/denesakin/DR-booking
-### RESTful API
-   * https://github.com/denesakin/DR-rest-api
+
 ### Client:
-   * https://github.com/denesakin/DR-frontend
+   * https://github.com/han-lue/DR-frontend
+### Booking
+   * https://github.com/han-lue/DR-booking
+### Clinic Registry
+   * https://github.com/han-lue/DR-clinic-registry
+### RESTful API
+   * https://github.com/han-lue/DR-rest-api
 ### Local-Infrastructure(Docker container containing local MQTT Broker & MongoDB for development purposes):
-   * https://github.com/denesakin/DR-local-infrastructure
+   * https://github.com/han-lue/DR-local-infrastructure
 
 ## Getting Started
 ### Step 1
 First of all clone all the gitlab repositories.
-- [Frontend](https://github.com/denesakin/DR-frontend)
-- [Booking](https://github.com/denesakin/DR-booking)
-- [Clinic Registry](https://github.com/denesakin/DR-clinic-registry)
-- [Rest Api](https://github.com/denesakin/DR-rest-api)
-- [Local Infrastructure](https://github.com/denesakin/DR-local-infrastructure)
+- [Frontend](https://github.com/han-lue/DR-frontend)
+- [Booking](https://github.com/han-lue/DR-booking)
+- [Clinic Registry](https://github.com/han-lue/DR-clinic-registry)
+- [Rest Api](https://github.com/han-lue/DR-rest-api)
+- [Local Infrastructure](https://github.com/han-lue/DR-local-infrastructure)
 
 ### Step 2
 Follow instructions to set up mqtt broker and mongoDB database via a docker component from the README.md file available in link below 
